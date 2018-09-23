@@ -1,0 +1,46 @@
+
+body{
+    background-color: #FAF05D
+    
+}
+h1{
+    background-color: #8DDE2B;
+    color: #ffffff;
+    text-align: center;
+    font-family: Arial;
+     
+}
+h2{
+    color: #000000;
+    font-family: Arial;
+    text-decoration: underline;
+}
+img.one{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+
+}
+img.two{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width:50%;
+}
+img.three{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+a{
+    color: black;
+    font-family: Georgia;
+    background-color: #BBFB89;
+}
+p{
+    font-family: Tahoma;
+}
